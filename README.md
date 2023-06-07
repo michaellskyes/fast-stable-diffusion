@@ -1,3 +1,7 @@
+sdk: gradio
+sdk_version: GRADIO-VERSION
+app_file: PATH-TO-APP-FILE
+
 # fast-stable-diffusion Notebooks, AUTOMATIC1111 + DreamBooth
 Runpod & Paperspace & Colab pro adaptations AUTOMATIC1111 Webui and Dreambooth.
  
